@@ -1,3 +1,5 @@
 Hello All
 this is a new file creating by writing method
 Have fun!
+This is appened line 1
+this is appended line 2.
